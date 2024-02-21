@@ -29,4 +29,4 @@ Tässä on numeroitu lista:
 
 ### Minun GitHub
 
-Minun GitHub löytyy tästä: @Majuniemi 
+Minun GitHub löytyy tästä: [Majuniemi](https://github.com/Majuniemi).
