@@ -1,4 +1,4 @@
-# Tervetuloa nettisivulleni
+# Jekyll tarjoaa mahdollisuuden helppoon ulkoasun luontiin
 
 Tällä sivulla on käytetty **Jekyll** teemaa ulkoasun muuttamiseksi.
 
