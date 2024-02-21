@@ -1,13 +1,12 @@
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+# Tervetuloa nettisivulleni
 
-# Welcome to My Website
+Tässä on **lihavoitua** tekstiä.
 
-This is some **bold** text.
+### Yhteystiedot
 
-## About
+Sähköpostiosoitteen voi lisätä sivulle linkkinä, joka avaa suoraan sähköpostiohjelmasi: [email@example.com](mailto:email@example.com).
 
-Here's some information about me.
+## Images
 
-### Contact
-
-You can contact me at [email@example.com](mailto:email@example.com).
+Tässä on kuva villakoirasta. 
+![Tässä on kuva koirasta](https://images.pexels.com/photos/17845133/pexels-photo-17845133/free-photo-of-poodle-dog.jpeg)
