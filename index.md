@@ -1,6 +1,6 @@
 # Tervetuloa nettisivulleni
 
-Tällä sivulla on käytetty **jekyll** teemaa ulkoasun muuttamiseksi.
+Tällä sivulla on käytetty **Jekyll** teemaa ulkoasun muuttamiseksi.
 
 ### Yhteystiedot
 
@@ -25,3 +25,8 @@ Tässä on numeroitu lista:
 1. Tämä
 2. on
 3. lista
+
+
+### Yhteistyö
+
+Olen tehnyt tiiviisti yhteistyötä @HannuKarjalainen kanssa.
