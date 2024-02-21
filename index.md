@@ -27,6 +27,6 @@ Tässä on numeroitu lista:
 3. lista
 
 
-### Yhteistyö
+### Minun GitHub
 
-Olen tehnyt tiiviisti yhteistyötä @HannuKarjalainen kanssa.
+Minun GitHub löytyy tästä: @Majuniemi 
