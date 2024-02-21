@@ -14,6 +14,12 @@ Tässä on kuva villakoirasta.
 
 ## Listat
 
+Tässä on numeroimaton lista: 
+
+* Tämä
+* on
+* lista
+
 Tässä on numeroitu lista: 
 
 1. Tämä
