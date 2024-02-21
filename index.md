@@ -1,18 +1,18 @@
 # Tervetuloa nettisivulleni
 
-Tässä on **lihavoitua** tekstiä.
+Tällä sivulla on käytetty **jekyll** teemaa ulkoasun muuttamiseksi.
 
 ### Yhteystiedot
 
 Sähköpostiosoitteen voi lisätä sivulle linkkinä, joka avaa suoraan sähköpostiohjelmasi: [email@example.com](mailto:email@example.com).
 
-## Images
+### Images
 
 Tässä on kuva villakoirasta. 
 
 ![Tässä on kuva villakoirasta](https://images.pexels.com/photos/17845133/pexels-photo-17845133/free-photo-of-poodle-dog.jpeg)
 
-## Listat
+### Listat
 
 Tässä on numeroimaton lista: 
 
